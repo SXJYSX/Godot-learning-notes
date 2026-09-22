@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaW6a7rWBKk=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\heart-platformer\\Heart Platformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\87493\\.nuget\\packages\\godot.sourcegenerators\\4.6.1\\godot.sourcegenerators.4.6.1.nupkg.sha512",
+    "C:\\Users\\87493\\.nuget\\packages\\godotsharp\\4.6.1\\godotsharp.4.6.1.nupkg.sha512",
+    "C:\\Users\\87493\\.nuget\\packages\\godotsharpeditor\\4.6.1\\godotsharpeditor.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

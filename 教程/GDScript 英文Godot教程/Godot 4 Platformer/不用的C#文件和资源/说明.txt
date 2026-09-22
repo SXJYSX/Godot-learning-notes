@@ -1,0 +1,17 @@
+MyPMD是我模仿PlayerMovementData写的 C#语言的 代码
+.cs 用于定义 Resource文件
+.tres 是 Resource文件本身
+
+Resource 很像 Unity中的 ScriptableObject
+
+
+1. 删除 C# 工程配置文件
+在 Godot 左下角的 文件系统 (FileSystem) 面板中，右键 res:// 根目录，选择 在文件管理器中打开 (Open in File Manager)。
+
+在弹出的系统文件夹中，找到并删除以下文件：
+
+你的项目名.csproj
+
+你的项目名.sln
+
+同时删除隐藏目录 .godot/mono（这是 C# 的编译缓存文件夹）。

@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="MyPMD" format=3 uid="uid://doqqoaesotvkt"]
+
+[ext_resource type="Script" uid="uid://c50r4xevphsl6" path="res://scripts/nodes/MyPMD.cs" id="1_6p7ku"]
+
+[resource]
+script = ExtResource("1_6p7ku")
+metadata/_custom_type_script = "uid://c50r4xevphsl6"

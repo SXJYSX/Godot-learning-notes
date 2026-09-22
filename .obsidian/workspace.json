@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "029bad0531cdd095",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f42f75e3971e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee7905f95ac4174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SceneManager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SceneManager"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7284fc41fdd7a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da2733d3df0be67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dc4b1cf26d11f2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ad811e2913b54262",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"CakeWalk Sonar/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b1a9e9f373484525",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b8e58c9525c7ff4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9884e3639bb7ee9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2bfd3bff803d67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SceneManager.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "537ce1cfc707045f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2D平台讨论/状态机设计笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b0e0386bae131961",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9022ff7ae41cbe87",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "fa52951e1c712947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2D平台讨论/状态机设计笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "9dc4b1cf26d11f2a",
+  "lastOpenFiles": [
+    "Godot语法/GDScript中 有继承吗？有抽象类吗？.md",
+    "SceneManager.md",
+    "2D平台讨论/架构/脚本代码结构.md",
+    "2D平台讨论/其它杂项/光照讨论.md",
+    "2D平台讨论/架构/脚本结构",
+    "2D平台讨论/同级节点之间应该是 通知 还是 调用？.md",
+    "2D平台讨论/架构/项目目录架构/项目文件目录架构.md",
+    "2D平台讨论/架构/项目目录架构",
+    "2D平台讨论/架构/节点架构",
+    "2D平台讨论/架构/节点架构/节点架构总结.md",
+    "2D平台讨论/架构/节点架构/节点架构草稿/玩家节点树拓扑结构（非状态机）.md",
+    "2D平台讨论/架构/节点架构/节点架构总结的补充/Directional 翻转方式的微调.md",
+    "2D平台讨论/架构/节点架构/节点架构总结的补充/Hitbox（攻击判定盒）应该放哪里？.md",
+    "规范/代码规范_向上通知 向下调用.md",
+    "规范/Manager名称滥用.md",
+    "规范/官方命名规范速查表.md",
+    "规范/英语语法之 方法名 与 信号名.md",
+    "动态生成的拾取物如何监听与取消监听？.md",
+    "2D平台讨论/架构",
+    "未命名.md",
+    "节点架构",
+    "选项卡.md",
+    "显卡现状.md",
+    "未命名 1.md",
+    "项目目录架构教程笔记.md",
+    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~3B275.tmp",
+    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~254AB.tmp",
+    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~24AB8.tmp",
+    "游戏多开（非教程笔记）.md",
+    "Godot语法/SceneTree.md",
+    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~435FB.tmp",
+    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~6AAB2.tmp",
+    "Godot语法/Groups.md",
+    "Godot语法/激活与失活.md",
+    "过期/2026年9月8日.md",
+    "过期/2026年9月10日要做的事.md"
+  ]
+}

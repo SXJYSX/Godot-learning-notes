@@ -1,0 +1,17 @@
+D:\Documents\heart-platformer\.godot\mono\temp\bin\Debug\Heart Platformer.deps.json
+D:\Documents\heart-platformer\.godot\mono\temp\bin\Debug\Heart Platformer.runtimeconfig.json
+D:\Documents\heart-platformer\.godot\mono\temp\bin\Debug\Heart Platformer.dll
+D:\Documents\heart-platformer\.godot\mono\temp\bin\Debug\Heart Platformer.pdb
+D:\Documents\heart-platformer\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Documents\heart-platformer\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.csproj.AssemblyReference.cache
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.AssemblyInfoInputs.cache
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.AssemblyInfo.cs
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.csproj.CoreCompileInputs.cache
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Pl.C5DCC53F.Up2Date
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.dll
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\refint\Heart Platformer.dll
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.pdb
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\Heart Platformer.genruntimeconfig.cache
+D:\Documents\heart-platformer\.godot\mono\temp\obj\Debug\ref\Heart Platformer.dll

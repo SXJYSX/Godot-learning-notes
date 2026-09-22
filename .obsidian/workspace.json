@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SceneManager.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SceneManager"
+              "title": "README"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SceneManager.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +187,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9dc4b1cf26d11f2a",
+  "active": "5ee7905f95ac4174",
   "lastOpenFiles": [
-    "Godot语法/GDScript中 有继承吗？有抽象类吗？.md",
+    "如何把代码给AI看.txt",
+    "新建 文字文件.txt",
+    "~$弹幕.docx",
+    "~$为了什么学习.docx",
     "SceneManager.md",
+    "README.md",
+    "Godot语法/GDScript中 有继承吗？有抽象类吗？.md",
     "2D平台讨论/架构/脚本代码结构.md",
     "2D平台讨论/其它杂项/光照讨论.md",
     "2D平台讨论/架构/脚本结构",
@@ -216,14 +221,9 @@
     "项目目录架构教程笔记.md",
     "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~3B275.tmp",
     "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~254AB.tmp",
-    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~24AB8.tmp",
     "游戏多开（非教程笔记）.md",
     "Godot语法/SceneTree.md",
-    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~435FB.tmp",
-    "教程/GDScript 英文Godot教程/Godot 4 Platformer/Godot 4 Platformer~6AAB2.tmp",
     "Godot语法/Groups.md",
-    "Godot语法/激活与失活.md",
-    "过期/2026年9月8日.md",
-    "过期/2026年9月10日要做的事.md"
+    "Godot语法/激活与失活.md"
   ]
 }
